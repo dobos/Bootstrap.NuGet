@@ -1,0 +1,3 @@
+echo Publishing package ...
+
+.\nuget.exe push Bootstrap.NuGet.3.3.6.nupkg
