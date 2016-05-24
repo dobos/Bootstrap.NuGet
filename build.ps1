@@ -19,5 +19,5 @@ mkdir pkg\content\Scripts\Bootstrap
 
 cp -Recurse -Force $package\* pkg\content\Scripts\Bootstrap
 
-.\nuget.exe pack pkg\SyntaxHighlighter.NuGet.nuspec
+.\nuget.exe pack pkg\Bootstrap.NuGet.nuspec
 
